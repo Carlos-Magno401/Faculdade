@@ -1,0 +1,1 @@
+#não feita por motivos de força maior, mas em resumo é usado um import pygame para executar um audio.mp3
