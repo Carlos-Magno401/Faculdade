@@ -30,4 +30,3 @@ class Conta:
 
 if __name__ == '__main__':
     conta1 = Conta(1, 'Rafael')
-    
